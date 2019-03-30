@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "port": 5432,
+    "url": "postgres://postgres:root@127.0.0.1/ekoomedia",
+    "database": "ekoomedia",
+    "password": "root",
+    "name": "db",
+    "user": "postgres",
+    "connector": "postgresql"
+  }
+}
