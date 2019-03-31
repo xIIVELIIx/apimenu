@@ -38,5 +38,9 @@
   "menu": {
     "dataSource": "db",
     "public": true
+  },
+  "data_form": {
+    "dataSource": "db",
+    "public": true
   }
 }
